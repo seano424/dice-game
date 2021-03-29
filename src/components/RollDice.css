@@ -1,0 +1,17 @@
+.RollDice button {
+  padding: 1rem;
+  border-radius: 4px;
+  background-color: darkturquoise;
+  color: white;
+  font-weight: bold;
+  border: none;
+  outline: none;
+}
+
+.RollDice:focus {
+  outline: none;
+}
+
+.RollDice {
+  outline: none;
+}
